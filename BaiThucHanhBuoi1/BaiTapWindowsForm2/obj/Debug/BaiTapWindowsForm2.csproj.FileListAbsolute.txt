@@ -1,0 +1,13 @@
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\bin\Debug\BaiTapWindowsForm2.exe.config
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\bin\Debug\BaiTapWindowsForm2.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\bin\Debug\BaiTapWindowsForm2.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.csproj.AssemblyReference.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.frmBai1.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.frmChinh.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.Properties.Resources.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.csproj.GenerateResource.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.csproj.CoreCompileInputs.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.frmBai2.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapWindowsForm2\obj\Debug\BaiTapWindowsForm2.frmBai3.resources

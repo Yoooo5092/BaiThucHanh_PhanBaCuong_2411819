@@ -34,6 +34,7 @@
             this.tsmiBai1 = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiBai2 = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiBai3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.tmsiBai4 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -52,7 +53,8 @@
             this.tênSinhViênToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmiBai1,
             this.tsmiBai2,
-            this.tsmiBai3});
+            this.tsmiBai3,
+            this.tmsiBai4});
             this.tênSinhViênToolStripMenuItem.Name = "tênSinhViênToolStripMenuItem";
             this.tênSinhViênToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
             this.tênSinhViênToolStripMenuItem.Text = "Phan Bá Cường";
@@ -81,6 +83,13 @@
             this.tsmiBai3.Text = "Bài 3";
             this.tsmiBai3.Click += new System.EventHandler(this.tsmiBai3_Click);
             // 
+            // tmsiBai4
+            // 
+            this.tmsiBai4.Name = "tmsiBai4";
+            this.tmsiBai4.Size = new System.Drawing.Size(180, 22);
+            this.tmsiBai4.Text = "Bài 4";
+            this.tmsiBai4.Click += new System.EventHandler(this.tmsiBai4_Click);
+            // 
             // frmChinh
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -104,6 +113,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmiBai1;
         private System.Windows.Forms.ToolStripMenuItem tsmiBai2;
         private System.Windows.Forms.ToolStripMenuItem tsmiBai3;
+        private System.Windows.Forms.ToolStripMenuItem tmsiBai4;
     }
 }
 

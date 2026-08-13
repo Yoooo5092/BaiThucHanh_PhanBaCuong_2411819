@@ -24,3 +24,17 @@ Z:\2411819\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj
 Z:\2411819\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
 Z:\2411819\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
 Z:\2411819\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai1.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmChinh.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
