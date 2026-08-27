@@ -1,0 +1,10 @@
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\bin\Debug\MyForm.exe.config
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\bin\Debug\MyForm.exe
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\bin\Debug\MyForm.pdb
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\obj\Debug\MyForm.exe
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\obj\Debug\MyForm.pdb
+Z:\2411819\BaiThucHanh_PhanBaCuong_2411819-main\BaiThucHanh_PhanBaCuong_2411819-main\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources
