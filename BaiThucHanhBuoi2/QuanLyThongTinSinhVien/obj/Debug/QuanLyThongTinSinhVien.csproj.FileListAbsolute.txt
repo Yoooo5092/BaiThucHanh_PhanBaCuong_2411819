@@ -1,0 +1,16 @@
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\DanhSachSV.txt
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\QuanLyThongTinSinhVien.exe.config
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\QuanLyThongTinSinhVien.exe
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\QuanLyThongTinSinhVien.pdb
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\obj\Debug\QuanLyThongTinSinhVien.csproj.AssemblyReference.cache
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\obj\Debug\QuanLyThongTinSinhVien.frmSinhVien.resources
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\obj\Debug\QuanLyThongTinSinhVien.Properties.Resources.resources
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\obj\Debug\QuanLyThongTinSinhVien.csproj.GenerateResource.cache
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\obj\Debug\QuanLyThongTinSinhVien.csproj.CoreCompileInputs.cache
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\obj\Debug\QuanLyThongTinSinhVien.exe
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\obj\Debug\QuanLyThongTinSinhVien.pdb
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\Images\SV.00002.jpg
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\Images\SV.00013.jpg
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\Images\SV.00018.jpg
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\Images\SV.00020.jpg
+D:\Personal\something\BaiThucHanh\MyForm\QuanLyThongTinSinhVien\bin\Debug\Images\SV.00010.jpg

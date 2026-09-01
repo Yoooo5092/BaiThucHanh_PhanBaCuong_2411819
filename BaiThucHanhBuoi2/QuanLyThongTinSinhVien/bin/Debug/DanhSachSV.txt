@@ -1,0 +1,5 @@
+﻿SV.00002	Nguyễn Văn A	15/10/2003	Đà Lạt	CTK47	SV.00002.jpg	1	Mạng truyền thông,Công nghệ phần mềm
+SV.00010	Nguyễn Thị Hoa	20/7/2002	Hà Nội	CTK47	SV.00010.jpg	0	Công nghệ phần mềm,Trí tuệ nhân tạo,Hệ thống thông tin
+SV.00020	Nguyễn Văn Hùng	25/8/2003	Gia Lai	CTK47	SV.00020.jpg	1	Mạng truyền thông,Trí tuệ nhân tạo,Hệ thống thông tin
+SV.00018	Lê Thị Anh Thư	20/11/2001	Đà Lạt	CTK47	SV.00018.jpg	0	Công nghệ phần mềm,Trí tuệ nhân tạo,Hệ thống thông tin
+SV.00013	Hoàng Lâm Vi	20/9/2003	Bình Định	CTK47	SV.00013.jpg	0	Mạng truyền thông,Trí tuệ nhân tạo,Hệ thống thông tin

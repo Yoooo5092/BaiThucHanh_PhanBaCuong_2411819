@@ -1,0 +1,13 @@
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\bin\Debug\DSGV.txt
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\bin\Debug\ThongTinGiangVien.exe.config
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\bin\Debug\ThongTinGiangVien.exe
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\bin\Debug\ThongTinGiangVien.pdb
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.csproj.AssemblyReference.cache
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.frmGiangVien.resources
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.frmTBGiangVien.resources
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.frmTimGV.resources
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.Properties.Resources.resources
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.csproj.GenerateResource.cache
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.csproj.CoreCompileInputs.cache
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.exe
+D:\Personal\something\BaiThucHanh\MyForm\ThongTinGiangVien\obj\Debug\ThongTinGiangVien.pdb
