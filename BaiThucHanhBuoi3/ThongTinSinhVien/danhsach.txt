@@ -1,0 +1,10 @@
+﻿2341236,Phan Ba,Cuong,14/02/2006,123456789,Nam,CTK48B,0913120459,Le hong phong,Lập trình mạng|Mạng máy tính|Hệ điều hành|Đồ án cơ sở|Phương pháp NCKH
+2341246,Nguyen Van,An,21/05/2006,123456790,Nam,CTK48B,0913456789,Tran phu,Hệ điều hành|Lập trình CSDL|Lập trình mạng|Đồ án cơ sở|An toàn và bảo mật hệ thống|Mạng máy tính
+2341256,Tran Thi,Huong,09/11/2006,123456791,Nu,CTK48A,0987654321,Nguyen cong tru,Lập trình CSDL|Đồ án cơ sở|Phương pháp NCKH|Lập trình thiết bị di động|Mạng máy tính
+2341266,Le Minh,Khang,03/08/2006,123456792,Nam,CTK48C,0905123456,Phan dinh phung,Mạng máy tính|An toàn và bảo mật hệ thống|Hệ điều hành|Lập trình mạng|Lập trình CSDL|Đồ án cơ sở
+2341276,Hoang Thi,Ngoc,17/01/2006,123456793,Nu,CTK48A,0978123456,Le loi,Phương pháp NCKH|Đồ án cơ sở|Lập trình thiết bị di động|Lập trình mạng|Hệ điều hành
+2341286,Vo Thanh,Long,25/06/2006,123456794,Nam,CTK48B,0934123456,Nguyen thai hoc,Lập trình thiết bị di động|Lập trình mạng|Mạng máy tính|An toàn và bảo mật hệ thống|Đồ án cơ sở|Phương pháp NCKH
+2341296,Dang Gia,Bao,30/09/2006,123456795,Nam,CTK48C,0967123456,Tran hung dao,Hệ điều hành|Mạng máy tính|An toàn và bảo mật hệ thống|Lập trình CSDL|Lập trình mạng
+2341306,Bui Thi,Trang,12/12/2006,123456796,Nu,CTK48A,0945123456,Hai ba trung,Đồ án cơ sở|Phương pháp NCKH|Lập trình thiết bị di động|Hệ điều hành|Lập trình CSDL|Mạng máy tính
+2341316,Do Quang,Huy,05/04/2006,123456797,Nam,CTK48B,0923123456,Vo thi sau,Lập trình CSDL|Phương pháp NCKH|Lập trình mạng|Mạng máy tính|An toàn và bảo mật hệ thống
+2341326,Nguyen Thi,My,19/07/2006,123456798,Nu,CTK48C,0918123456,Ly thuong kiet,Lập trình thiết bị di động|An toàn và bảo mật hệ thống|Hệ điều hành|Đồ án cơ sở|Lập trình mạng|Phương pháp NCKH

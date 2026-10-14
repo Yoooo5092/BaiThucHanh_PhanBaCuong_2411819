@@ -33,5 +33,11 @@ namespace QuanLyThongTinSinhVien
             this.GioiTinh = gt;
             this.ChuyenNganh = cn;
         }
+
+        public string Xuat()
+        {
+
+            return $"{MaSo}";
+        }
     }
 }

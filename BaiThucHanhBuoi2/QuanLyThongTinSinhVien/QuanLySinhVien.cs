@@ -4,10 +4,17 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace QuanLyThongTinSinhVien
 {
     public delegate int SoSanh(object sv1, object sv2);
+    public enum KieuSapXep
+    {
+        theoTen,
+        theoMa,
+        theoNgaySinh,
+    }
     public class QuanLySinhVien
     {
         public List<SinhVien> dsSinhVien;
@@ -47,7 +54,6 @@ namespace QuanLyThongTinSinhVien
             {
                 if (ss(obj, this[i]) == 0)
                 {
-
                     this[i] = svsua;
                     kq = true;
                     break;
@@ -91,6 +97,26 @@ namespace QuanLyThongTinSinhVien
                         sv.ChuyenNganh.Add(c);
                     this.Them(sv);
                 }
+            }
+        }
+
+        public void SapXep(KieuSapXep kieu)
+        {
+            switch (kieu) {
+                case (KieuSapXep.theoMa):
+                
+                    dsSinhVien = dsSinhVien.OrderBy(sinhVien => sinhVien.MaSo).ToList();
+                    break;
+
+                case (KieuSapXep.theoTen):
+
+                    dsSinhVien = dsSinhVien.OrderBy(sinhVien => sinhVien.HoTen.Split(' ')[sinhVien.HoTen.Split(' ').Count()-1]).ToList();
+                    break;
+
+                case (KieuSapXep.theoNgaySinh):
+
+                    dsSinhVien = dsSinhVien.OrderBy(sinhVien => sinhVien.NgaySinh).ToList();
+                    break;
             }
         }
     }

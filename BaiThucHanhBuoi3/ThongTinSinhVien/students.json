@@ -1,0 +1,16 @@
+{
+    "sinhvien": [
+	{
+		"MSSV": "1235732", 
+			"HoVaTenLot": "Thai Duy ",
+		"Ten": "Quy",
+		"NgaySinh": "14/02/2006", 
+			"CMND": "123412344",
+		"GioiTinh": "Nam",
+		"Lop": "CTK48B",
+		"SDT": "0913120459",
+		"DiaChi": "dia chi", 
+			"MonHoc" : "An toàn và bảo mật hệ thống|Lập trình thiết bị di động"
+	}
+    ]
+}

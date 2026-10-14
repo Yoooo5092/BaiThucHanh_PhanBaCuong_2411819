@@ -13,7 +13,7 @@ namespace QuanLyThongTinSinhVien
 {
     public partial class frmSinhVien : Form
     {
-        QuanLySinhVien qlsv;
+        public QuanLySinhVien qlsv;
         public frmSinhVien()
         {
             InitializeComponent();
@@ -115,11 +115,18 @@ namespace QuanLyThongTinSinhVien
                 this.clbChuyenNganh.SetItemChecked(i, false);
             foreach (string s in sv.ChuyenNganh)
                 for (int i = 0; i < this.clbChuyenNganh.Items.Count; i++)
-                    if (s.CompareTo(this.clbChuyenNganh.Items[i]) == 0)
+                {
+
+                    if (s.Trim().CompareTo(this.clbChuyenNganh.Items[i].ToString().Trim()) == 0)
+                    {
+
                         this.clbChuyenNganh.SetItemChecked(i, true);
+                        break;
+                    }
+                }
         }
 
-        private void LoadListView()
+        public void LoadListView()
         {
             this.lvSinhVien.Items.Clear();
             foreach (SinhVien sv in qlsv.dsSinhVien)
@@ -173,7 +180,7 @@ namespace QuanLyThongTinSinhVien
 
         private void grbTTSV_Enter(object sender, EventArgs e)
         {
-
+            btnMacDinh.PerformClick();
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
@@ -181,7 +188,7 @@ namespace QuanLyThongTinSinhVien
             Application.Exit();
         }
 
-        private int SoSanhTheoMa(object sv1, object sv2)
+        public int SoSanhTheoMa(object sv1, object sv2)
         {
             SinhVien sv = sv2 as SinhVien;
             return sv.MaSo.CompareTo(sv1);
@@ -205,6 +212,7 @@ namespace QuanLyThongTinSinhVien
         private void btnSua_Click(object sender, EventArgs e)
         {
             SinhVien svSua = GetSinhVien();
+
             bool kq;
             kq = qlsv.Sua(svSua, svSua.MaSo, SoSanhTheoMa);
             if (kq)
@@ -215,6 +223,8 @@ namespace QuanLyThongTinSinhVien
         {
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
             {
+                openFileDialog.Filter = "Image Files (*.bmp; *.jpg; *.jpeg; *.png) | *.bmp; *.jpg; *.jpeg; *.png";
+                openFileDialog.FilterIndex = 1;
                 // Optional: set starting folder
                 if (openFileDialog.ShowDialog() == DialogResult.OK)
                 {
@@ -223,6 +233,37 @@ namespace QuanLyThongTinSinhVien
                     this.pbHinh.Image = Image.FromFile(txtHinh.Text);
                 }
             }
+        }
+
+        private void mởFileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            btnBrowse_Click(sender, e);
+        }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void thêmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sắpXếpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmTuyChon form = new frmTuyChon(this);
+            form.Show();
+        }
+
+        public void SapXep(KieuSapXep kieu)
+        {
+            qlsv.SapXep(kieu);
+        }
+
+        private void grbTTSV_Enter_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucHanhBuoi3.csproj.AssemblyReference.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucHanhBuoi3.frmReadJsonFile.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucHanhBuoi3.Properties.Resources.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucHanhBuoi3.csproj.GenerateResource.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucHanhBuoi3.csproj.CoreCompileInputs.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\bin\Debug\BaiThucHanhBuoi3.exe.config
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\bin\Debug\BaiThucHanhBuoi3.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\bin\Debug\BaiThucHanhBuoi3.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucH.920FA0CF.Up2Date
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucHanhBuoi3.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\obj\Debug\BaiThucHanhBuoi3.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\bin\Debug\students.json
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\BaiThucHanhBuoi3\bin\Debug\books.xml

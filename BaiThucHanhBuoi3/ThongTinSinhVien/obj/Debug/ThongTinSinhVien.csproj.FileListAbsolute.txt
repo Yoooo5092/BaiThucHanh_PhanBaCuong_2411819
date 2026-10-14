@@ -1,0 +1,16 @@
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\bin\Debug\ThongTinSinhVien.exe.config
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\bin\Debug\ThongTinSinhVien.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\bin\Debug\ThongTinSinhVien.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.AssemblyReference.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.Properties.Resources.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.GenerateResource.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.csproj.CoreCompileInputs.cache
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.exe
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.pdb
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.frmThongTinSinhVien.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\bin\Debug\danhsach.txt
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTinSinhVien.frmTimKiem.resources
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\bin\Debug\students.json
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\bin\Debug\Newtonsoft.Json.dll
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\bin\Debug\Newtonsoft.Json.xml
+D:\Personal\something\BaiThucHanh\BaiThucHanhBuoi3\ThongTinSinhVien\obj\Debug\ThongTin.D9CA3ACC.Up2Date

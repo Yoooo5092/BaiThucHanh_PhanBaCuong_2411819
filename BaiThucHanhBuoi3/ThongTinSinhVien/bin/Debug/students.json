@@ -1,0 +1,49 @@
+{
+  "sinhvien": [
+    {
+      "MSSV": "1235732",
+      "HoVaTenLot": "Thai Duy",
+      "Ten": "Quy",
+      "NgaySinh": "03/08/2006",
+      "CMND": "012301234",
+      "GioiTinh": "Nam",
+      "Lop": "CTK48A",
+      "SDT": "0913120459",
+      "DiaChi": "Lạc Dương",
+      "MonHoc": [
+        ""
+      ]
+    },
+    {
+      "MSSV": "1235733",
+      "HoVaTenLot": "Thai Duy",
+      "Ten": "cường",
+      "NgaySinh": "14/02/2006",
+      "CMND": "123412344",
+      "GioiTinh": "Nam",
+      "Lop": "CTK48B",
+      "SDT": "0913120459",
+      "DiaChi": "ok",
+      "MonHoc": [
+        ""
+      ]
+    },
+    {
+      "MSSV": "1235730",
+      "HoVaTenLot": "Thu",
+      "Ten": "Thủy",
+      "NgaySinh": "23/02/2006",
+      "CMND": "019283723",
+      "GioiTinh": "Nu",
+      "Lop": "CTK48C",
+      "SDT": "0912123412",
+      "DiaChi": "Đà lạt",
+      "MonHoc": [
+        "",
+        "Hệ điều hành",
+        "Lập trình thiết bị di động",
+        "An toàn và bảo mật hệ thống"
+      ]
+    }
+  ]
+}
